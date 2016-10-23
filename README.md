@@ -46,7 +46,7 @@ tr:nth-child(even) {
     <td><a href="http://www.travelagenthanoi.com/vietnam-package-holidays.html"><img src="hanoi.jpg" width="300" height="180"></a></td><!--- Each table will have the name of the city, the price of the whole holiday package and also a picture which has a link to an external website which has the specific holiday package.-->
   </tr>
   <tr>
-    <td><u><font size="4">Pha Quoc</u></td>
+    <td><u><font size="4">Pha Quoc</erewfwefu></td>
     <td>6,502</td>
     <td><a href="http://discoverphuquoc.com/byair.html#a1"><img src="phu_quoc.jpg" width="300" height="180"></a></td>
   </tr>
